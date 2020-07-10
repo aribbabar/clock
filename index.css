@@ -24,10 +24,10 @@ body
     color: white;
 }
 
-@media (max-width: 800px)
+@media (max-width: 1000px)
 {
     .clock
     {
-        margin-top: 1000%;
+        margin-top: 40%;
     }
 }
